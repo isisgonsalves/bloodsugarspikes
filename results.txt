@@ -1,0 +1,48 @@
+		Blood Sugar Level Analysis
+		--------------------------
+The highest blood sugar level was: 289 on Day: 183 and Day: 185
+
+
+Consecutive Days with levels over 200
+------------------------------------
+
+
+Days: 88 (205 mg/dl), 89 (250 mg/dl), 90 (281 mg/dl) 
+
+Days: 89 (250 mg/dl), 90 (281 mg/dl), 91 (230 mg/dl) 
+
+Days: 90 (281 mg/dl), 91 (230 mg/dl), 92 (208 mg/dl) 
+
+Days: 91 (230 mg/dl), 92 (208 mg/dl), 93 (234 mg/dl) 
+
+Days: 98 (235 mg/dl), 99 (212 mg/dl), 100 (284 mg/dl) 
+
+Days: 157 (202 mg/dl), 158 (282 mg/dl), 159 (228 mg/dl) 
+
+Days: 166 (283 mg/dl), 167 (284 mg/dl), 168 (202 mg/dl) 
+
+Days: 171 (273 mg/dl), 172 (229 mg/dl), 173 (214 mg/dl) 
+
+Days: 175 (203 mg/dl), 176 (220 mg/dl), 177 (260 mg/dl) 
+
+Days: 176 (220 mg/dl), 177 (260 mg/dl), 178 (263 mg/dl) 
+
+Days: 181 (204 mg/dl), 182 (251 mg/dl), 183 (289 mg/dl) 
+
+Days: 182 (251 mg/dl), 183 (289 mg/dl), 184 (262 mg/dl) 
+
+Days: 183 (289 mg/dl), 184 (262 mg/dl), 185 (289 mg/dl) 
+
+Days: 184 (262 mg/dl), 185 (289 mg/dl), 186 (260 mg/dl) 
+
+Number of days measurements were not taken: 10
+
+Percentage of days measurements were not taken: 5.3 % 
+
+
+
+Number of Spikes Occurred: 41
+
+Biggest Spike to Occur: 145
+
+Occurred between: Day 161 and Day 162
